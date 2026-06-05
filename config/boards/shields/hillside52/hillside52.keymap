@@ -83,15 +83,15 @@
             		layers = <0>;
             		bindings = <&kp LA(LSHIFT)>;
         	};
-		combo_HOME {
+		combo_Rhome {
             		timeout-ms = <50>;
-            		key-positions = <9 10>;
+            		key-positions = <10 23>;
             		layers = <0>;
             		bindings = <&kp HOME>;
         	};
-		combo_END {
+		combo_Rend {
             		timeout-ms = <50>;
-            		key-positions = <21 22>;
+            		key-positions = <22 37>;
             		layers = <0>;
             		bindings = <&kp END>;
         	};
