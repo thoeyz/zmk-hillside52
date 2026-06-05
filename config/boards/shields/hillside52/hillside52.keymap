@@ -26,8 +26,8 @@
 / {
         
  	combos {
-        	compatible = "zmk,combos";
-        	combo_PGUP {
+        compatible = "zmk,combos";
+        combo_PGUP {
             		timeout-ms = <50>;
             		key-positions = <2 3>;
             		layers = <0>;
@@ -77,11 +77,11 @@
             		bindings = <&kp LA(N2)>;
        		};
 
-       combo_THAI {
+       combo_esc {
             		timeout-ms = <50>;
-            		key-positions = <30 31>;
+            		key-positions = <28 29>;
             		layers = <0>;
-            		bindings = <&kp LA(LSHIFT)>;
+            		bindings = <&kp ESC>;
         	};
 		combo_Rhome {
             		timeout-ms = <50>;
