@@ -143,7 +143,7 @@
                         bindings = <
 &kp  O        &kp  ESC      &kp  LSHIFT   &kp  W       &kp  C     &kp  R                                                                     &kp  MINUS    &kp  N7       &kp  N8       &kp  N9       &kp  MINUS           &kp  DEL
 &kp  LSHIFT   &kp  E        &kp  A        &kp  S       &kp  D     &lt  5 G                                                                   &kp  PLUS     &kp  N4       &kp  N5       &kp  N6       &kp  KP_MULTIPLY     &kp  DOT
-&lt  2 F2     &kp  X        &kp  N3       &kp LEFT     &kp  F     &kp  N5    &lt  2 I                                          &tog  4       &kp  N0       &kp  N1       &kp  N2       &kp  N3       &kp  KP_DIVIDE       &kp  RSHFT
+&lt  2 F2     &kp  X        &kp  N3       &kp LEFT     &kp  F     &kp  N5    &lt  2 I                                          &none         &kp  N0       &kp  N1       &kp  N2       &kp  N3       &kp  KP_DIVIDE       &kp  RSHFT
 &kp  Q        &kp  RIGHT    &tog 1                     &lt 2  B   &kp  Z     &kp  SPACE    &kp LALT                  &tog 1    &kp  LBKT     &kp  RBKT     &kp  RET                    &trans        &kp  END             &tog 6
                         >;
 		};
