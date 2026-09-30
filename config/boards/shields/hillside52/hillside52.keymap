@@ -120,7 +120,7 @@
             		timeout-ms = <50>;
             		key-positions = <12 44>;
             		layers = <0>;
-            		bindings = <&kp LGUI>;
+            		bindings = <&sk LGUI>;
         	};
 	};
 
