@@ -114,6 +114,14 @@
             		layers = <0>;
             		bindings = <&sk LGUI>;
         	};
+
+	    combo_wintab {
+            		timeout-ms = <50>;
+            		key-positions = <6 7>;
+            		layers = <1>;
+            		bindings = <&kp RG(TAB)>;
+        	};
+
 	};
 
 /* key position
